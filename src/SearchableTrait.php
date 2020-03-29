@@ -1,4 +1,4 @@
-<?php namespace JDdesignNW\Searchable;
+<?php namespace jddesignnw\Searchable;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Support\Arr;
