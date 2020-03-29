@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "JDdesignNW\\Searchable\\": "src/"
+            "jddesignnw\\Searchable\\": "src/"
         }
     },
     "minimum-stability": "stable"
